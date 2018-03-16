@@ -27,7 +27,7 @@
          <h3> Results: </h3>
          <span runat="server" id="changed_text" />
       </form>
-      
+        <p>The time is @DateTime.Now</p>
    </body>
    
 </html>
